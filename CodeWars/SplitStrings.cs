@@ -2,7 +2,7 @@
 
 namespace CodeWars
 {
-    public class SplitStrings
+    public static class SplitStrings
     {
         public static string[] Execute(string str)
         {
