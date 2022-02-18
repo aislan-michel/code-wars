@@ -6,7 +6,7 @@ namespace CodeWars
     {
         static void Main(string[] args)
         {
-            PersistentBugger.Persistence(39);
+            Console.WriteLine("Hello Code Wars");
         }
     }
 }
